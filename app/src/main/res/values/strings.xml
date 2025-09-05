@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rastreador de Turno</string>
+    <string name="add_card">Adicionar Cartão</string>
+    <string name="card_title">Título do Cartão</string>
+    <string name="card_value">Valor</string>
+    <string name="card_description">Descrição</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="work_shift_tracker">Rastreador de Turno de Trabalho</string>
+    <string name="no_cards_yet">Nenhum cartão ainda</string>
+    <string name="add_your_first_card">Adicione seu primeiro cartão para começar a rastrear seu turno</string>
+</resources>
